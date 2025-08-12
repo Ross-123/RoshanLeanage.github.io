@@ -1,0 +1,6 @@
+<!-- Redirect to project subpath -->
+<script>
+  if (window.location.pathname === '/') {
+    window.location.href = '/RoshanLeanage.github.io/';
+  }
+</script>
